@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #edebe4;
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
@@ -108,7 +109,6 @@ footer {
 
 /* Criei uma media query para remover a imagem do bolo em dispositivo com largura de tela menor que '1023px' */
 @media screen and (max-width: 1023px) {
-
   .img-background img {
     width: 100px;
 
