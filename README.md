@@ -6,7 +6,7 @@ Página exclusiva feita com tecnologias WEB.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -24,6 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é um agregador de links para tornar mais facil visitas online, assim deicando em um mesmo ambiente o cardapio e formas de contato.
+Este é um agregador de links para tornar mais facil visitas online, assim deixando em um mesmo ambiente o cardapio e formas de contato.
 
 ---
