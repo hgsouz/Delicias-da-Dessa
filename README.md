@@ -24,6 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é um agregador de links para tornar mais facil visitas online, assim deixando em um mesmo ambiente o cardapio e formas de contato.
+Este é um agregador de links para tornar mais facil visitas e compras online, assim deixando em um mesmo ambiente formas de contato, cardapio e mais.
 
 ---
